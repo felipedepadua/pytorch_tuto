@@ -1,3 +1,4 @@
 data/
 /.vscode
 runs/
+lightning_logs/
