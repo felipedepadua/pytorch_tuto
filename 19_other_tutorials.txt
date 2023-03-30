@@ -1,0 +1,8 @@
+For the remaining tutorial videos, the code is in this Github repo:
+ - https://github.com/patrickloeber/pytorch-examples
+
+
+ -> PyTorch model deployment w/ Flask and Heroku
+ -> RNN, LSTM, GRU
+ -> PyTorch Lightning
+ -> PyTorch LR Scheduler
